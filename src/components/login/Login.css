@@ -1,0 +1,12 @@
+.login-parent-box{
+    margin-top: 20%;
+}
+
+.login-form{
+    display: grid;
+    gap: 10px
+}
+
+.login-form__button{
+    width: 50%
+}
